@@ -7,7 +7,6 @@
         <td><input type="file" name="img" id=""></td>
         <input type="hidden" name="id" value="<?=$_GET['id'];?>">
     </tr>
-    
 </table>
 <div class="text-center">
     <input type="submit" value="更新">

@@ -1,5 +1,4 @@
 <?php
-// 引入 db.php 文件，這裡可能包含了數據庫連接等功能
 include_once "./db.php";
 // 檢查是否有名稱為 'id' 的 POST 參數。如果有，代表有一個表單提交，並進行下一步處理。
 if(isset($_POST['id'])){
